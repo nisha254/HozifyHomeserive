@@ -43,3 +43,5 @@ yarn-error.*
 # Local generated files (contain absolute OS paths - breaks EAS builds)
 autolink.json
 .expo/
+android/build/
+android/app/build/
