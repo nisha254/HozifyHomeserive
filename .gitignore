@@ -38,7 +38,7 @@ yarn-error.*
 
 # generated native folders
 /ios
-/android
+
 
 # Local generated files (contain absolute OS paths - breaks EAS builds)
 autolink.json
